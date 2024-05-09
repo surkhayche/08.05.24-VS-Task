@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 08.05.24(1-100 qaliqsiz & Diplom isi)", "Task 08.05.24(1-100 qaliqsiz & Diplom isi)\Task 08.05.24(1-100 qaliqsiz & Diplom isi).csproj", "{2FCE90E8-88E6-440E-8DEC-D03480F13758}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FCE90E8-88E6-440E-8DEC-D03480F13758}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FCE90E8-88E6-440E-8DEC-D03480F13758}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FCE90E8-88E6-440E-8DEC-D03480F13758}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FCE90E8-88E6-440E-8DEC-D03480F13758}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD669E73-C06D-4EDD-AB6F-6480D8237525}
+	EndGlobalSection
+EndGlobal

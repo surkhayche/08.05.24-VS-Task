@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Task 08.05.24(1-100 qaliqsiz & Diplom isi)\Task 08.05.24(1-100 qaliqsiz & Diplom isi)\bin\Debug\net8.0\Task 08.05.24(1-100 qaliqsiz & Diplom isi).exe
+C:\Users\User\Desktop\Task 08.05.24(1-100 qaliqsiz & Diplom isi)\Task 08.05.24(1-100 qaliqsiz & Diplom isi)\bin\Debug\net8.0\Task 08.05.24(1-100 qaliqsiz & Diplom isi).deps.json
+C:\Users\User\Desktop\Task 08.05.24(1-100 qaliqsiz & Diplom isi)\Task 08.05.24(1-100 qaliqsiz & Diplom isi)\bin\Debug\net8.0\Task 08.05.24(1-100 qaliqsiz & Diplom isi).runtimeconfig.json
+C:\Users\User\Desktop\Task 08.05.24(1-100 qaliqsiz & Diplom isi)\Task 08.05.24(1-100 qaliqsiz & Diplom isi)\bin\Debug\net8.0\Task 08.05.24(1-100 qaliqsiz & Diplom isi).dll
+C:\Users\User\Desktop\Task 08.05.24(1-100 qaliqsiz & Diplom isi)\Task 08.05.24(1-100 qaliqsiz & Diplom isi)\bin\Debug\net8.0\Task 08.05.24(1-100 qaliqsiz & Diplom isi).pdb
+C:\Users\User\Desktop\Task 08.05.24(1-100 qaliqsiz & Diplom isi)\Task 08.05.24(1-100 qaliqsiz & Diplom isi)\obj\Debug\net8.0\Task 08.05.24(1-100 qaliqsiz & Diplom isi).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Task 08.05.24(1-100 qaliqsiz & Diplom isi)\Task 08.05.24(1-100 qaliqsiz & Diplom isi)\obj\Debug\net8.0\Task 08.05.24(1-100 qaliqsiz & Diplom isi).AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Task 08.05.24(1-100 qaliqsiz & Diplom isi)\Task 08.05.24(1-100 qaliqsiz & Diplom isi)\obj\Debug\net8.0\Task 08.05.24(1-100 qaliqsiz & Diplom isi).AssemblyInfo.cs
+C:\Users\User\Desktop\Task 08.05.24(1-100 qaliqsiz & Diplom isi)\Task 08.05.24(1-100 qaliqsiz & Diplom isi)\obj\Debug\net8.0\Task 08.05.24(1-100 qaliqsiz & Diplom isi).csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Task 08.05.24(1-100 qaliqsiz & Diplom isi)\Task 08.05.24(1-100 qaliqsiz & Diplom isi)\obj\Debug\net8.0\Task 08.05.24(1-100 qaliqsiz & Diplom isi).dll
+C:\Users\User\Desktop\Task 08.05.24(1-100 qaliqsiz & Diplom isi)\Task 08.05.24(1-100 qaliqsiz & Diplom isi)\obj\Debug\net8.0\refint\Task 08.05.24(1-100 qaliqsiz & Diplom isi).dll
+C:\Users\User\Desktop\Task 08.05.24(1-100 qaliqsiz & Diplom isi)\Task 08.05.24(1-100 qaliqsiz & Diplom isi)\obj\Debug\net8.0\Task 08.05.24(1-100 qaliqsiz & Diplom isi).pdb
+C:\Users\User\Desktop\Task 08.05.24(1-100 qaliqsiz & Diplom isi)\Task 08.05.24(1-100 qaliqsiz & Diplom isi)\obj\Debug\net8.0\Task 08.05.24(1-100 qaliqsiz & Diplom isi).genruntimeconfig.cache
+C:\Users\User\Desktop\Task 08.05.24(1-100 qaliqsiz & Diplom isi)\Task 08.05.24(1-100 qaliqsiz & Diplom isi)\obj\Debug\net8.0\ref\Task 08.05.24(1-100 qaliqsiz & Diplom isi).dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Task 08.05.24(1-100 qaliqsiz & Diplom isi)/1.0.0": {
+        "runtime": {
+          "Task 08.05.24(1-100 qaliqsiz & Diplom isi).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Task 08.05.24(1-100 qaliqsiz & Diplom isi)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
